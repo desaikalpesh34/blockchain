@@ -1,0 +1,21 @@
+{
+    "name": "desaikalpesh34/blockchain",
+    "description": "api integration for blockchani api",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","blockchai","bitcoin","api","coinbase",""],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kalpesh desai",
+            "email": "desaikalpesh34@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "desaikalpesh34\\blockchain\\": ""
+        }
+    }
+}
